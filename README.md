@@ -54,29 +54,29 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 # 📌 Featured Projects
 
-<!-- Contenitore flex per card -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-
-  <!-- Card Portfolio Personale -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/p4wlee/portfolio-personale">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache=123456" />
-    </a>
-    <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- Card Tongue -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/p4wlee/tongue">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache=654321" />
-    </a>
-    <a href="https://tonguenews.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-    </a>
-  </div>
-
+<div align="center">
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <a href="https://github.com/p4wlee/portfolio-personale">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10" />
+      </a>
+      <br><br>
+      <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none;">
+      <a href="https://github.com/p4wlee/tongue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10" />
+      </a>
+      <br><br>
+      <a href="https://tonguenews.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 ---
 
