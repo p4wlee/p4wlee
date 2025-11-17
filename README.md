@@ -57,7 +57,7 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 <div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top" align="center" border="0">
+    <td width="50%" valign="top" align="center" style="border: 0; padding: 20px;">
       <a href="https://github.com/p4wlee/portfolio-personale">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache_seconds=120" />
       </a>
@@ -66,7 +66,7 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
         <img src="https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center" border="0">
+    <td width="50%" valign="top" align="center" style="border: 0; padding: 20px;">
       <a href="https://github.com/p4wlee/tongue">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache_seconds=120" />
       </a>
