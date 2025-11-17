@@ -54,8 +54,6 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 # 📌 Featured Projects
 
-# 📌 Featured Projects
-
 <div align="center">
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
