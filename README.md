@@ -54,27 +54,48 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 # 📌 Featured Projects
 
-<!-- Contenitore flex per card -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- Card Portfolio Personale -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/p4wlee/portfolio-personale">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache=123456" />
-    </a>
-    <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
+  <div style="width: 300px; border-radius: 10px; padding: 16px; background-color: #23272e;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+      <h3 style="margin: 0; font-size: 14px; font-weight: 600; color: #61afef;">
+        <a href="https://github.com/p4wlee/portfolio-personale" style="text-decoration: none; color: inherit;">portfolio-personale</a>
+      </h3>
+    </div>
+    <p style="margin: 0 0 16px 0; font-size: 12px; color: #f1e05a; line-height: 1.5;">
+      Questo è il mio portfolio personale da sviluppatore: un sito web pulito, moderno e completamente reattivo, progettato per mostrare i miei progetti, le mie competenze...
+    </p>
+    <div style="display: flex; align-items: center; gap: 16px; font-size: 12px; color: #656d76;">
+      <div style="display: flex; align-items: center; gap: 4px;">
+        <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #e34c26;"></span>
+        HTML
+      </div>
+      <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank" style="color: #61afef; text-decoration: none; font-weight: 500;">
+        🌐 LIVE DEMO
+      </a>
+    </div>
   </div>
 
   <!-- Card Tongue -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/p4wlee/tongue">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache=654321" />
-    </a>
-    <a href="https://tonguenews.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-    </a>
+  <div style="width: 300px; border-radius: 10px; padding: 16px; background-color: #23272e;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+      <h3 style="margin: 0; font-size: 14px; font-weight: 600; color: #61afef;">
+        <a href="https://github.com/p4wlee/tongue" style="text-decoration: none; color: inherit;">tongue</a>
+      </h3>
+    </div>
+    <p style="margin: 0 0 16px 0; font-size: 12px; color: #f1e05a; line-height: 1.5;">
+      Discover the latest international news with Tongue. A modern, fast and constantly updated news platform
+    </p>
+    <div style="display: flex; align-items: center; gap: 16px; font-size: 12px; color: #656d76;">
+      <div style="display: flex; align-items: center; gap: 4px;">
+        <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #f1e05a;"></span>
+        JavaScript
+      </div>
+      <a href="https://tonguenews.netlify.app/" target="_blank" style="color: #61afef; text-decoration: none; font-weight: 500;">
+        🌐 LIVE DEMO
+      </a>
+    </div>
   </div>
 
 </div>
