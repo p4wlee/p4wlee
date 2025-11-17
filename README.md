@@ -78,6 +78,7 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
   </tr>
 </table>
 </div>
+
 ---
 
 ### 🔹 Portfolio Personale
