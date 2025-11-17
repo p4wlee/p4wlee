@@ -55,20 +55,20 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 # 📌 Featured Projects
 
 <div align="center">
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table>
   <tr>
-    <td width="50%" valign="top" align="center" style="border: none;">
+    <td width="50%" valign="top" align="center" border="0">
       <a href="https://github.com/p4wlee/portfolio-personale">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache_seconds=120" />
       </a>
       <br><br>
       <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center" style="border: none;">
+    <td width="50%" valign="top" align="center" border="0">
       <a href="https://github.com/p4wlee/tongue">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache_seconds=120" />
       </a>
       <br><br>
       <a href="https://tonguenews.netlify.app/" target="_blank">
