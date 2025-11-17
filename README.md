@@ -2,14 +2,11 @@
 About Me<br>My name is Davide Paulicelli, and I’m turning my passion for logic and technology into a career as a Backend Web Developer.<br>After several years working in retail, where I learned to manage people, processes, and customers with precision and responsibility, I decided to take a new direction — into web development, a field that lets me combine problem-solving skills with a practical mindset.<br><br>What I’m Building Now<br>I’m currently studying HTML, CSS, JavaScript, and TypeScript, and focusing on backend development with Node.js and MySQL.<br>I love understanding how things work behind the scenes and building efficient, scalable, and clean solutions.<br>To me, a good developer doesn’t just write code — they create value for people, teams, and projects.<br><br>What Sets Me Apart<br>My previous experience taught me more than it might seem:<br>-Organization and reliability, to handle complex workflows (whether it’s products or code, the principle is the same);<br>-Practical problem solving, to find real, fast solutions when things don’t go as planned;<br>-Communication and teamwork, skills I bring with me into tech, where collaboration makes the difference.<br><br>My Goals<br>I aim to grow as a Backend Developer and work with teams that share my drive to learn, experiment, and improve every day.<br>I’m curious, determined, and always open to new challenges — every line of code is a step forward in building my professional future.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-paulicelli-00295222b)
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=p4wlee&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=p4wlee&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p4wlee&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-paulicelli-00295222b)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
