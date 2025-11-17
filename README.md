@@ -54,17 +54,28 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 # 📌 Featured Projects
 
-<div align="center">
+<!-- Contenitore flex per card -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=dark&show_owner=true)](https://github.com/p4wlee/portfolio-personale)
-[![Tongue](https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=dark&show_owner=true)](https://github.com/p4wlee/tongue)
+  <!-- Card Portfolio Personale -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/p4wlee/portfolio-personale">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache=123456" />
+    </a>
+    <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐 Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+  </div>
 
-</div>
-
-<div align="center">
-
-[![Live Demo Portfolio](https://img.shields.io/badge/🌐_Live_Demo-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://p4wlee.github.io/portfolio-personale/)
-[![Live Demo Tongue](https://img.shields.io/badge/🌐_Live_Demo-Tongue-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tonguenews.netlify.app/)
+  <!-- Card Tongue -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/p4wlee/tongue">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache=654321" />
+    </a>
+    <a href="https://tonguenews.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐 Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    </a>
+  </div>
 
 </div>
 
