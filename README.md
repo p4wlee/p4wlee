@@ -54,16 +54,24 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 # 📌 Featured Projects
 
-<p align="left">
+<p align="left" style="display:flex; gap: 15px; flex-wrap: wrap;">
 
   <!-- Project 1: Portfolio Personale -->
   <a href="https://github.com/p4wlee/portfolio-personale">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache=123456" />
+  </a>
+  <br>
+  <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
   <!-- Project 2: Tongue -->
   <a href="https://github.com/p4wlee/tongue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache=654321" />
+  </a>
+  <br>
+  <a href="https://tonguenews.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 
 </p>
@@ -72,11 +80,10 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 
 ### 🔹 Portfolio Personale
 A fully responsive personal portfolio built to showcase my projects, technical skills, and developer identity.  
-Designed with clean structure, modern UI, and efficient front-end architecture to offer recruiters and collaborators a clear overview of my work and abilities.
+Designed with clean structure, modern UI, and efficient front-end architecture.
 
-🛠️ *HTML5, CSS/SCSS, Bootstrap, Responsive Design*
-
-🔗 Live Demo: https://p4wlee.github.io/portfolio-personale/
+🛠️ *HTML5, CSS/SCSS, Bootstrap, Responsive Design*  
+🔗 **Live Demo:** https://p4wlee.github.io/portfolio-personale/
 
 ---
 
@@ -91,9 +98,9 @@ It features a smooth UI, “load more” dynamic content loading, and a fully re
 - Navbar and footer with external links  
 - Optimized bundling with Webpack  
 
-🛠️ *HTML5, CSS/SCSS, JavaScript ES6+, Bootstrap 5, Webpack*
+🛠️ *HTML5, CSS/SCSS, JavaScript ES6+, Bootstrap 5, Webpack*  
+🔗 **Live Demo:** https://tonguenews.netlify.app/
 
-🔗 Live Demo: https://tonguenews.netlify.app/
 
 ---
 
