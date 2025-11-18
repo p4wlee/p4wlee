@@ -59,7 +59,7 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
   <tr>
     <td width="50%" valign="top" align="center" style="border: 0; padding: 20px;">
       <a href="https://github.com/p4wlee/portfolio-personale">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache_seconds=120" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=portfolio-personale&theme=tokyonight&border_radius=10&cache_seconds=300" />
       </a>
       <br><br>
       <a href="https://p4wlee.github.io/portfolio-personale/" target="_blank">
@@ -68,7 +68,7 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
     </td>
     <td width="50%" valign="top" align="center" style="border: 0; padding: 20px;">
       <a href="https://github.com/p4wlee/tongue">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache_seconds=120" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=p4wlee&repo=tongue&theme=tokyonight&border_radius=10&cache_seconds=300" />
       </a>
       <br><br>
       <a href="https://tonguenews.netlify.app/" target="_blank">
