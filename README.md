@@ -36,20 +36,20 @@ To grow as a **Backend Developer**, join a team that values learning and collabo
 ---
 
 # 💻 Tech Stack
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,git" />
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,git" draggable="false" style="pointer-events: none; user-select: none;" />
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="SASS">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
-    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT">
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack">
-    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="SASS" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" alt="Webpack" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" draggable="false" style="pointer-events: none; user-select: none;">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify" draggable="false" style="pointer-events: none; user-select: none;">
+</div>
 
 ---
 
