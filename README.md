@@ -69,19 +69,20 @@ Designed with clean structure, modern UI, and efficient front-end architecture.
 
 ---
 
-### 🔹 Tongue — Real-Time International News Platform
-Tongue is a fast and modern news platform that displays real-time global headlines through the Hacker News API.  
-It features a smooth UI, “load more” dynamic content loading, and a fully responsive layout crafted for a clean reading experience.
+### 🔹 Match Predictor API
+A production-grade REST API for a football prediction system, built with a clean layered architecture and full JWT authentication flow.  
+Designed with security, scalability, and testability in mind — covering everything from user management to a dynamic leaderboard.
 
 **Main features**  
-- Real-time world news feed  
-- Dynamic “load more” button without page reload  
-- Fully responsive UI  
-- Navbar and footer with external links  
-- Optimized bundling with Webpack  
+- JWT authentication with access token (1h) + refresh token (7d)  
+- Role-based access control (admin / user)  
+- Full CRUD for teams, weeks, matches, and predictions  
+- Weekly leaderboard with sorting filters  
+- 61 unit tests with Mocha, Chai and Sinon  
+- MySQL with prepared statements — no raw SQL in controllers  
 
-🛠️ *HTML5, CSS/SCSS, JavaScript ES6+, Bootstrap 5, Webpack*  
-🔗 **Live Demo:** https://tonguenews.netlify.app/
+🛠️ *Node.js, Express, MySQL (mysql2), JWT, bcrypt, Mocha, Chai, Sinon*  
+🔗 **Repository:** https://github.com/p4wlee/match_predictor
 
 
 ---
